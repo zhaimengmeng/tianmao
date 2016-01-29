@@ -1,0 +1,96 @@
+<!-- <div class="sub-ctn">
+						<div class="logo-e">
+						<img src="./img/20150813180032.png"></div>
+						<div class="gengduo">
+						<a href="">更多<span>></span></a></div>
+						div.
+						<p class="hove-list">
+							<a href="">品牌女装</a>
+							<a href="">秋季新品</a>
+							<a href="">品牌特卖</a>
+							<a href="">商场同款</a>
+							<a href="">国际大牌</a>
+							<a href="">时尚女装</a>
+							<a href="">设计师</a>
+							<a href="">连衣裙</a>
+							<a href="">T恤</a>
+							<a href="">雪纺衫</a>
+							<a href="">半身裙</a>
+							<a href="">短裤</a>
+							<a href="">百搭衬衫</a>
+							<a href="">蕾丝衫</a>
+							<a href="">背心吊带</a>
+							<a href="">牛仔裤</a>
+							<a href="">短外套</a>
+							<a href="">针织衫</a>
+						</p>
+						<p class="hove-list">
+							<a href="">真丝连衣裙</a>
+							<a href="">印花连衣裙</a>
+							<a href="">蕾丝连衣裙</a>
+							<a href="">纯棉T恤</a>
+							<a href="">棉麻T恤</a>
+							<a href="">亚麻衬衫</a>
+							<a href="">真丝衬衫</a>
+							<a href="">连体裤</a>	
+							<a href="">甜美少女</a>
+							<a href="">优雅名媛</a>
+							<a href="">小清新</a>
+							<a href="">性感欧美</a>
+							<a href="">棉麻连衣裙</a>
+							<a href="">雪纺长裙</a>
+							<a href="">通勤百搭</a>
+							<a href="">防晒衫</a>
+							<a href="">百褶裙</a>
+							<a href="">雪纺衬衫</a>
+							<a href="">背带裤</a>
+							<a href="">青春学院</a>	
+							<a href="">文艺范儿</a>
+							</p>
+							<p class="hove-list">
+								<a href="">时尚套装</a>
+								<a href="">运动套装</a>
+								<a href="">休闲裤</a>
+								<a href="">妈妈装</a>
+								<a href="">阔腿裤</a>
+								<a href="">大码女装</a>	
+								<a href="">小脚裤</a>
+								<a href="">哈伦裤</a>
+								<a href="">小西装</a>
+								<a href="">气质风衣</a>
+								<a href="">打底衫</a>
+								<a href="">复古旗袍</a>
+							</p>		
+						</div> -->
+						<!-- <div class="sub-ctn">
+							<img src="./img/20150813180016.png">
+							<a href="">更多<span>></span></a>
+							<p>
+								<li>品牌内衣</li>
+								<li>文胸</li>
+								<li>聚拢文胸</li>
+								<li>爆款文胸</li>
+								<li>无钢圈文胸</li>
+								<li>女式内裤</li>
+								<li>男士内裤</li>
+								<li>夏季睡衣</li>
+								<li>性感睡衣</li>
+								<li>休闲风睡衣</li>
+								<li>情侣大码睡衣</li>
+								<li>纯棉睡衣</li>
+								<li>睡裙</li>
+								<li>吊带</li>
+								<li>瘦腿袜夏</li>
+								<li>bra吊带</li>
+								<li>运动休闲睡衣</li>
+								<li>甜美睡衣</li>
+								<li>真丝睡裙</li>
+								<li>打底裤</li>
+								<li>船袜</li>
+							</p>
+ -->
+						</div>
+
+
+
+
